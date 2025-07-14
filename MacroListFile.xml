@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroFiles xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MacroFile>
+    <Name>830.mbk</Name>
+    <IsUpdated>true</IsUpdated>
+  </MacroFile>
+  <MacroFile>
+    <Name>Dewey.mbk</Name>
+    <IsUpdated>true</IsUpdated>
+  </MacroFile>
+  <MacroFile>
+    <Name>OCLC.mbk</Name>
+    <IsUpdated>true</IsUpdated>
+  </MacroFile>
+  <MacroFile>
+    <Name>Transliteration.mbk</Name>
+    <IsUpdated>true</IsUpdated>
+  </MacroFile>
+</MacroFiles>
